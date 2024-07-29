@@ -1,3 +1,4 @@
+This is Ellen Estallo's Readme file.  The following lines of code were instructed in a previous assignment.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
